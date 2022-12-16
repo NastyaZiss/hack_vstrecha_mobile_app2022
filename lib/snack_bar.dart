@@ -5,7 +5,12 @@ class SnackBarService {
   static const okColor = Colors.green;
 
   static Future<void> showSnackBar(
-      BuildContext context, String message, bool error
-      ScaffoldMessage.of(context).removeCurrent
-      )
+      BuildContext context, String message, bool error) async{
+    ScaffoldMessenger.of(context).removeCurrentSnackBar();
+    
+    final snackBar = SnackBar(content: Text(message),
+    backgroundColor: error ? errorColor: okColor,
+    );
+    ScaffoldMessenger.of(context).showSnackBar(snackBar);
+  }
 }

@@ -13,3 +13,21 @@ class _CreatScreenState extends State<CreatScreen> {
     return Scaffold();
   }
 }
+
+// Navigator.pushReplacement(context,
+//     MaterialPageRoute(builder: (context)=>
+//     if ((user==null)) {
+//       Navigator.push(context,
+//           MaterialPagRoute(bulder: ((context) => RegistrScreen())),
+//       );
+//     } else {
+//       Navigator.push(
+//         context,
+//         MaterialPageRoute(
+//           bulder:((context) => const HomeScreen())
+//         )
+//        )
+//      };
+//     }
+//         RegistrScreen()
+//     )));
