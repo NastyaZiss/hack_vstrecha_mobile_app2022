@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:hack_app/const/global_color.dart';
 import 'package:hack_app/screen/home_screen.dart';
+import 'package:hack_app/screen/registr_screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
@@ -15,9 +16,9 @@ class _SplashScreenState extends State<SplashScreen> {
   static const AssetImage logo_splash = AssetImage('assets/img/logo.png');
   @override
   Widget build(BuildContext context) {
-    Timer(Duration(seconds: 4), () {
+    Timer(Duration(seconds: 3), () {
       Navigator.pushReplacement(context,
-          MaterialPageRoute(builder: (context)=> HomeScreen()));
+          MaterialPageRoute(builder: (context)=> (RegistrScreen())));
     });
     return Scaffold(
       backgroundColor: AppColors.backg,

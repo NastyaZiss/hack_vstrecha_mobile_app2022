@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "916991679863",
+    "project_id": "youmeet-app",
+    "storage_bucket": "youmeet-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916991679863:android:c628e365c9b180b7a29572",
+        "android_client_info": {
+          "package_name": "com.example.hack_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916991679863-pspuadg6m7tkt2ld4i3mqc85sfahrn57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hack_app",
+            "certificate_hash": "42f12e10bd0f630a6362bbc13d934fb1f8bab548"
+          }
+        },
+        {
+          "client_id": "916991679863-t9bojeslo3qtbhmgu2akhff39o2ftmmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPaGQLD50dPy4j-zMioYE3Fi6yDS97l-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916991679863-t9bojeslo3qtbhmgu2akhff39o2ftmmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
