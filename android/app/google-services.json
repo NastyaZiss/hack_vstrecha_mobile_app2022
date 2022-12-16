@@ -1,41 +1,33 @@
 {
   "project_info": {
-    "project_number": "916991679863",
-    "project_id": "youmeet-app",
-    "storage_bucket": "youmeet-app.appspot.com"
+    "project_number": "196995626854",
+    "project_id": "youmeet-9d641",
+    "storage_bucket": "youmeet-9d641.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:916991679863:android:c628e365c9b180b7a29572",
+        "mobilesdk_app_id": "1:196995626854:android:44e8b1851d013ae1803aa7",
         "android_client_info": {
           "package_name": "com.example.hack_app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "916991679863-pspuadg6m7tkt2ld4i3mqc85sfahrn57.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.hack_app",
-            "certificate_hash": "42f12e10bd0f630a6362bbc13d934fb1f8bab548"
-          }
-        },
-        {
-          "client_id": "916991679863-t9bojeslo3qtbhmgu2akhff39o2ftmmh.apps.googleusercontent.com",
+          "client_id": "196995626854-1e1ghq77c1r28lf80eicd4rlonlhm936.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDPaGQLD50dPy4j-zMioYE3Fi6yDS97l-Q"
+          "current_key": "AIzaSyC617F_C24Sh837b_Uz9AYMJAVoGDTxWdY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "916991679863-t9bojeslo3qtbhmgu2akhff39o2ftmmh.apps.googleusercontent.com",
+              "client_id": "196995626854-1e1ghq77c1r28lf80eicd4rlonlhm936.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
